@@ -9,7 +9,7 @@ NodeMCU, Sensor LDR, Sensor de Presença e Emissor de Infra-vermelho.
 
 ## Funcionamento do Circuito
 Segue um link do youtube com o funcionamento do circuito montado, controlando uma televisão Philips.
-
+https://youtu.be/ZQkbl5nPfEI
 
 ## Autores:
 Erick Ramos, Gustavo Campos, Danilo Santos
